@@ -2,6 +2,8 @@
 
 These are instructions for an AI assistant that builds or edits a website. Follow them in order. They add **Vibetiles**: a small design panel on the live page. The site's owner turns dials (colours, fonts, sizes, spacing, light and dark) and sees the page change. Visitors get a smaller panel (text size, light and dark, the styles the owner offers). The site keeps its own design until someone turns a dial.
 
+![The Vibetiles panel, open on the Styles page](.github/panel.png)
+
 The whole panel is one folder, `vibetiles/`. It needs no server, no build step and no account. Download it here and unzip it:
 
 https://github.com/manuelesposito/vibetiles-html/releases/latest/download/vibetiles-html.zip
